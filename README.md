@@ -16,7 +16,7 @@ This repo contains a day-by-day breakdown of React exercises to help build pract
 
 ## 🧩 Week 2: Events, Inputs, and Lists
 
-- [ ] **Day 6:** Handle click events.
+- [x] **Day 6:** Handle click events.
 - [ ] **Day 7:** Create controlled inputs (real-time typing).
 - [ ] **Day 8:** Show/hide elements using toggle state.
 - [ ] **Day 9:** Render lists with `.map()`.
