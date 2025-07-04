@@ -6,61 +6,61 @@ This repo contains a day-by-day breakdown of React exercises to help build pract
 
 ## 📅 Week 1: Basic Setup and Concepts
 
-- **Day 1:** Set up React app using `create-react-app` and display “Hello React”.
-- **Day 2:** Practice JSX — headings, lists, images, and variables.
-- **Day 3:** Create and import custom components (`<Header />`, `<Footer />`).
-- **Day 4:** Learn props — pass and display data in components.
-- **Day 5:** Build a counter using `useState` with + / – buttons.
+- [x] **Day 1:** Set up React app using `npm create vite@latest` and display “Hello React”.
+- [x] **Day 2:** Practice JSX — headings, lists, images, and variables.
+- [x] **Day 3:** Create and import custom components (`<Header />`, `<Footer />`).
+- [x] **Day 4:** Learn props — pass and display data in components.
+- [x] **Day 5:** Build a counter using `useState` with + / – buttons.
 
 ---
 
 ## 🧩 Week 2: Events, Inputs, and Lists
 
-- **Day 6:** Handle click events.
-- **Day 7:** Create controlled inputs (real-time typing).
-- **Day 8:** Show/hide elements using toggle state.
-- **Day 9:** Render lists with `.map()`.
-- **Day 10:** Add items to a list via input.
+- [] **Day 6:** Handle click events.
+- [] **Day 7:** Create controlled inputs (real-time typing).
+- [] **Day 8:** Show/hide elements using toggle state.
+- [] **Day 9:** Render lists with `.map()`.
+- [] **Day 10:** Add items to a list via input.
 
 ---
 
 ## 📝 Week 3: Forms + List Handling
 
-- **Day 11:** Controlled form inputs
-- **Day 12:** Basic form validation
-- **Day 13:** Add items to a list
-- **Day 14:** Remove items from a list
-- **Day 15:** Update list items
-- **Day 16:** Toggle item state (e.g., favorite/unfavorite)
-- **Day 17:** Show list count or summary
-- **Day 18:** Filter list by category
-- **Day 19:** Sort list alphabetically
-- **Day 20:** Sort by date or number
+- [] **Day 11:** Controlled form inputs
+- [] **Day 12:** Basic form validation
+- [] **Day 13:** Add items to a list
+- [] **Day 14:** Remove items from a list
+- [] **Day 15:** Update list items
+- [] **Day 16:** Toggle item state (e.g., favorite/unfavorite)
+- [] **Day 17:** Show list count or summary
+- [] **Day 18:** Filter list by category
+- [] **Day 19:** Sort list alphabetically
+- [] **Day 20:** Sort by date or number
 
 ---
 
 ## 🔄 Week 4: useEffect + API Basics
 
-- **Day 21:** Intro to `useEffect`
-- **Day 22:** Update document title with state
-- **Day 23:** Fetch data from API (e.g., JSONPlaceholder)
-- **Day 24:** Handle loading and errors
-- **Day 25:** Cleanup in `useEffect`
-- **Day 26:** Fetch on button click vs. on mount
-- **Day 27:** Fetch with search query
-- **Day 28:** Handle API pagination
+- [] **Day 21:** Intro to `useEffect`
+- [] **Day 22:** Update document title with state
+- [] **Day 23:** Fetch data from API (e.g., JSONPlaceholder)
+- [] **Day 24:** Handle loading and errors
+- [] **Day 25:** Cleanup in `useEffect`
+- [] **Day 26:** Fetch on button click vs. on mount
+- [] **Day 27:** Fetch with search query
+- [] **Day 28:** Handle API pagination
 
 ---
 
 ## ⚙️ Week 5: Performance + UX
 
-- **Day 29:** Debounce search input
-- **Day 30:** Show loading spinner
-- **Day 31:** Disable submit button during load
-- **Day 32:** Optimistic UI updates
-- **Day 33:** Scroll to element with `useRef`
-- **Day 34:** Focus input with `useRef`
-- **Day 35:** Throttle scroll events
+- [] **Day 29:** Debounce search input
+- [] **Day 30:** Show loading spinner
+- [] **Day 31:** Disable submit button during load
+- [] **Day 32:** Optimistic UI updates
+- [] **Day 33:** Scroll to element with `useRef`
+- [] **Day 34:** Focus input with `useRef`
+- [] **Day 35:** Throttle scroll events
 
 ---
 
