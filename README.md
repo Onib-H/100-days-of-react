@@ -16,39 +16,39 @@ This repo contains a day-by-day breakdown of React exercises to help build pract
 
 ## 🧩 Week 2: Events, Inputs, and Lists
 
-- [] **Day 6:** Handle click events.
-- [] **Day 7:** Create controlled inputs (real-time typing).
-- [] **Day 8:** Show/hide elements using toggle state.
-- [] **Day 9:** Render lists with `.map()`.
-- [] **Day 10:** Add items to a list via input.
+- [ ] **Day 6:** Handle click events.
+- [ ] **Day 7:** Create controlled inputs (real-time typing).
+- [ ] **Day 8:** Show/hide elements using toggle state.
+- [ ] **Day 9:** Render lists with `.map()`.
+- [ ] **Day 10:** Add items to a list via input.
 
 ---
 
 ## 📝 Week 3: Forms + List Handling
 
-- [] **Day 11:** Controlled form inputs
-- [] **Day 12:** Basic form validation
-- [] **Day 13:** Add items to a list
-- [] **Day 14:** Remove items from a list
-- [] **Day 15:** Update list items
-- [] **Day 16:** Toggle item state (e.g., favorite/unfavorite)
-- [] **Day 17:** Show list count or summary
-- [] **Day 18:** Filter list by category
-- [] **Day 19:** Sort list alphabetically
-- [] **Day 20:** Sort by date or number
+- [ ] **Day 11:** Controlled form inputs
+- [ ] **Day 12:** Basic form validation
+- [ ] **Day 13:** Add items to a list
+- [ ] **Day 14:** Remove items from a list
+- [ ] **Day 15:** Update list items
+- [ ] **Day 16:** Toggle item state (e.g., favorite/unfavorite)
+- [ ] **Day 17:** Show list count or summary
+- [ ] **Day 18:** Filter list by category
+- [ ] **Day 19:** Sort list alphabetically
+- [ ] **Day 20:** Sort by date or number
 
 ---
 
 ## 🔄 Week 4: useEffect + API Basics
 
-- [] **Day 21:** Intro to `useEffect`
-- [] **Day 22:** Update document title with state
-- [] **Day 23:** Fetch data from API (e.g., JSONPlaceholder)
-- [] **Day 24:** Handle loading and errors
-- [] **Day 25:** Cleanup in `useEffect`
-- [] **Day 26:** Fetch on button click vs. on mount
-- [] **Day 27:** Fetch with search query
-- [] **Day 28:** Handle API pagination
+- [ ] **Day 21:** Intro to `useEffect`
+- [ ] **Day 22:** Update document title with state
+- [ ] **Day 23:** Fetch data from API (e.g., JSONPlaceholder)
+- [ ] **Day 24:** Handle loading and errors
+- [ ] **Day 25:** Cleanup in `useEffect`
+- [ ] **Day 26:** Fetch on button click vs. on mount
+- [ ] **Day 27:** Fetch with search query
+- [ ] **Day 28:** Handle API pagination
 
 ---
 

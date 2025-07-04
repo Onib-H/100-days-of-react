@@ -5,8 +5,8 @@ function Day5() {
     <div>
       <h1>Count: {count}</h1>
       <button onClick={() => setCount((prev) => prev + 1)}>Increment</button>
-      <button onClick={() => setCount((prev) => prev + 1)}>Decrement</button>
-      <button onClick={() => setCount(0)}>Reset</button>
+      <button onClick={() => setCount((prev) => prev - 1)}>Decrement</button>
+      <button onClick={() => setCount(() => setCount(0))}>Reset</button>
     </div>
   );
 }
