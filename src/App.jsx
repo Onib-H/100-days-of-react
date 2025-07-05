@@ -1,8 +1,8 @@
-import Day6 from "./components/day6";
+import Day12 from "./components/day12";
 const App = () => {
   return (
     <div>
-      <Day6 />
+      <Day12 />
     </div>
   );
 };
