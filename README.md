@@ -26,8 +26,8 @@ This repo contains a day-by-day breakdown of React exercises to help build pract
 
 ## 📝 Week 3: Forms + List Handling
 
-- [ ] **Day 11:** Controlled form inputs
-- [ ] **Day 12:** Basic form validation
+- [x] **Day 11:** Controlled form inputs
+- [x] **Day 12:** Basic form validation
 - [ ] **Day 13:** Add items to a list
 - [ ] **Day 14:** Remove items from a list
 - [ ] **Day 15:** Update list items
