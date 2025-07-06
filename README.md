@@ -28,10 +28,10 @@ This repo contains a day-by-day breakdown of React exercises to help build pract
 
 - [x] **Day 11:** Controlled form inputs
 - [x] **Day 12:** Basic form validation
-- [ ] **Day 13:** Add items to a list
-- [ ] **Day 14:** Remove items from a list
-- [ ] **Day 15:** Update list items
-- [ ] **Day 16:** Toggle item state (e.g., favorite/unfavorite)
+- [x] **Day 13:** Add items to a list
+- [x] **Day 14:** Remove items from a list
+- [x] **Day 15:** Update list items
+- [x] **Day 16:** Toggle item state (e.g., favorite/unfavorite)
 - [ ] **Day 17:** Show list count or summary
 - [ ] **Day 18:** Filter list by category
 - [ ] **Day 19:** Sort list alphabetically
