@@ -32,10 +32,10 @@ This repo contains a day-by-day breakdown of React exercises to help build pract
 - [x] **Day 14:** Remove items from a list
 - [x] **Day 15:** Update list items
 - [x] **Day 16:** Toggle item state (e.g., favorite/unfavorite)
-- [ ] **Day 17:** Show list count or summary
-- [ ] **Day 18:** Filter list by category
-- [ ] **Day 19:** Sort list alphabetically
-- [ ] **Day 20:** Sort by date or number
+- [x] **Day 17:** Show list count or summary
+- [x] **Day 18:** Filter list by category
+- [x] **Day 19:** Sort list alphabetically
+- [x] **Day 20:** Sort by date or number
 
 ---
 
