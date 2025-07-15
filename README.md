@@ -41,7 +41,7 @@ This repo contains a day-by-day breakdown of React exercises to help build pract
 
 ## 🔄 Week 4: useEffect + API Basics
 
-- [ ] **Day 21:** Intro to `useEffect`
+- [x] **Day 21:** Intro to `useEffect`
 - [ ] **Day 22:** Update document title with state
 - [ ] **Day 23:** Fetch data from API (e.g., JSONPlaceholder)
 - [ ] **Day 24:** Handle loading and errors
