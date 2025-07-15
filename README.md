@@ -43,9 +43,9 @@ This repo contains a day-by-day breakdown of React exercises to help build pract
 
 - [x] **Day 21:** Intro to `useEffect`
 - [x] **Day 22:** Update document title with state
-- [ ] **Day 23:** Fetch data from API (e.g., JSONPlaceholder)
-- [ ] **Day 24:** Handle loading and errors
-- [ ] **Day 25:** Cleanup in `useEffect`
+- [x] **Day 23:** Fetch data from API (e.g., JSONPlaceholder)
+- [x] **Day 24:** Handle loading and errors
+- [x] **Day 25:** Cleanup in `useEffect`
 - [ ] **Day 26:** Fetch on button click vs. on mount
 - [ ] **Day 27:** Fetch with search query
 - [ ] **Day 28:** Handle API pagination
