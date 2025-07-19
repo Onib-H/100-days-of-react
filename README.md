@@ -47,7 +47,7 @@ This repo contains a day-by-day breakdown of React exercises to help build pract
 - [x] **Day 24:** Handle loading and errors
 - [x] **Day 25:** Cleanup in `useEffect`
 - [x] **Day 26:** Fetch on button click vs. on mount
-- [ ] **Day 27:** Fetch with search query
+- [x] **Day 27:** Fetch with search query
 - [ ] **Day 28:** Handle API pagination
 
 ---
