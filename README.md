@@ -57,7 +57,7 @@ This repo contains a day-by-day breakdown of React exercises to help build pract
 - [x] **Day 29:** Debounce search input
 - [x] **Day 30:** Show loading spinner
 - [x] **Day 31:** Disable submit button during load
-- [ ] **Day 32:** Optimistic UI updates
+- [] **Day 32:** Optimistic UI updates
 - [ ] **Day 33:** Scroll to element with `useRef`
 - [ ] **Day 34:** Focus input with `useRef`
 - [ ] **Day 35:** Throttle scroll events
